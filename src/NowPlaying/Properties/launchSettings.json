@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "NowPlaying (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "NowPlaying (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+*.user
+AppPackages/
+dist/
+TestResults/
+*.msix
+*.cer
+*.pfx
+tasks/
+.claude/

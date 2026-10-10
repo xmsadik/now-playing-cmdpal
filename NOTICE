@@ -1,0 +1,6 @@
+Portions of this project (Program.cs, NowPlayingExtension.cs, NowPlayingCommandsProvider.cs,
+and the project scaffolding) are derived from the Microsoft PowerToys Command Palette extension
+template, Copyright (c) Microsoft Corporation, licensed under the MIT License.
+
+Spotify is a trademark of Spotify AB; YouTube and Chrome are trademarks of Google LLC. This project is an
+unofficial community project and is not affiliated with, endorsed by or sponsored by Microsoft, Spotify or Google.
